@@ -23,6 +23,11 @@
     chalk "^2.0.0"
     js-tokens "^4.0.0"
 
+"@faker-js/faker@^6.0.0-beta.0":
+  version "6.0.0-beta.0"
+  resolved "https://registry.yarnpkg.com/@faker-js/faker/-/faker-6.0.0-beta.0.tgz#8d772b0c37ebc450e3a95114be549e8fd245f16f"
+  integrity sha512-7QdsX5ZqUEz87twuoKEJe7NHn6OHQsVYQpJcK0disnR0XuVb9FEgQUcsViard9OTNN/fG/nZT63V35vieOwZ4Q==
+
 "@parcel/bundler-default@2.3.2":
   version "2.3.2"
   resolved "https://registry.yarnpkg.com/@parcel/bundler-default/-/bundler-default-2.3.2.tgz#329f171e210dfb22beaa52ae706ccde1dae384c1"
