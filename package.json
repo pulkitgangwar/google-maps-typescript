@@ -1,9 +1,9 @@
 {
   "name": "maps-typescript",
   "version": "1.0.0",
-  "main": "index.js",
   "scripts": {
-    "dev": "parcel index.html"
+    "dev": "parcel index.html",
+    "build": "parcel build index.html"
   },
   "author": "pulkitgangwar <pulkitgangwar2016@gmail.com>",
   "license": "MIT",
