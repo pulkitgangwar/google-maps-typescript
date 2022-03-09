@@ -8,6 +8,7 @@
   "author": "pulkitgangwar <pulkitgangwar2016@gmail.com>",
   "license": "MIT",
   "devDependencies": {
+    "@types/google.maps": "^3.48.2",
     "parcel": "^2.3.2"
   },
   "dependencies": {

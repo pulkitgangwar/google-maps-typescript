@@ -590,6 +590,11 @@
   resolved "https://registry.yarnpkg.com/@trysound/sax/-/sax-0.2.0.tgz#cccaab758af56761eb7bf37af6f03f326dd798ad"
   integrity sha512-L7z9BgrNEcYyUYtF+HaEfiS5ebkh9jXqbszz7pC0hRBPaatV0XjSD3+eHrpqFemQfgwiFF0QPIarnIihIDn7OA==
 
+"@types/google.maps@^3.48.2":
+  version "3.48.2"
+  resolved "https://registry.yarnpkg.com/@types/google.maps/-/google.maps-3.48.2.tgz#9e6ca624494b80fc0c0d456d77ff3c163f2fc087"
+  integrity sha512-ulxQ3eLy3s/l5KChx040FzsecC/2+JFWaF+FxGp628bJjqDL50vkzkRNEy1QlWOxHk5wKFfJvBonQrla/z82oA==
+
 "@types/parse-json@^4.0.0":
   version "4.0.0"
   resolved "https://registry.yarnpkg.com/@types/parse-json/-/parse-json-4.0.0.tgz#2f8bb441434d163b35fb8ffdccd7138927ffb8c0"
